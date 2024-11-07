@@ -29,4 +29,18 @@ footer p {
     flex-grow: 1;
     flex-basis: calc(33% - 0.6rem);
 }
+.cartao_conteudo {
+    text-align: center;
+    background-color: cornflowerblue;
+    height: 100%;
+}
+.cartao_conteudo h3 {
+    background-color: aquamarine;
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+}
 
