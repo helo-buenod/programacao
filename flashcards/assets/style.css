@@ -67,8 +67,8 @@ footer p {
 }
 
 .cartao_conteudo_respota {
+ transform: rotateY(180deg);
 
-    transform: rotateY(180deg);
 }
 .cartao_conteudo p {
     margin-top: 1rem;
