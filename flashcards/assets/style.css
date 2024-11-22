@@ -50,9 +50,17 @@ footer p {
 .cartao_conteudo_pergunta,
 .cartao_conteudo_respota {
     backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
 
 .cartao_conteudo_respota {
     transform: rotateY(180deg);
+}
+.cartao_conteudo p {
+    margin-top: 1rem;
+    padding: 2rem;
+    margin-top: 4rem;
 }
 
