@@ -35,12 +35,18 @@ footer p {
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
+}
 
     .cartao_conteudo_pergunta p {
         color:  var(#511d74);
         font-weight: 500;
     }
-}
+
+    .cartao_conteudo_respota p{
+        color: var(--card-back-color);
+        font-weight: 700;
+    }
+
 .cartao_conteudo h3 {
     background-color: #511d74;
     text-align: left;
